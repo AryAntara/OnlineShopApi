@@ -1,0 +1,19 @@
+RESTAPI > 
+# User handler
+    + Login
+    + Signup
+    + Token
+    + Logout
+    + User
+# Store handler
+    + NewStore
+    + StoreId
+# Product handler
+    + List
+    + ListByFilter
+    + ListByOwner
+    + AddtoExist
+    + Add 
+    + AddProductToCart
+    + CheckCartForAUser
+    + Checkout
